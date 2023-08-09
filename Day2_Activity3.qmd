@@ -1,0 +1,24 @@
+---
+title: "Day3_Activity"
+format: html
+---
+
+## Day 3 Activity
+
+```{r}
+#create vector a
+vec_a <- c(1,6)
+#create vector b
+vec_b <- c(2,4)
+
+vec_a + vec_b
+
+vec_b-vec_a
+
+4 * vec_a
+
+#symbol to find dot product
+vec_a %*% vec_b
+
+
+```
