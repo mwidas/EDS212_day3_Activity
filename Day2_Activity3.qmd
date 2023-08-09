@@ -16,7 +16,6 @@ vec_a + vec_b
 vec_b-vec_a
 
 4 * vec_a
-
 #symbol to find dot product
 vec_a %*% vec_b
 
